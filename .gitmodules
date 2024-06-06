@@ -5,3 +5,6 @@
 [submodule "ProcData"]
 	path = ProcData
 	url = https://github.com/xytangtang/procdata
+[submodule "proclhmm"]
+	path = proclhmm
+	url = https://github.com/xytangtang/proclhmm
